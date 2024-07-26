@@ -3,7 +3,7 @@ title: "Chen Chen"
 image: "cc_headshot.JPG"
 links:
   - label: Home
-    url: "https://github.com/suthlam"
+    url: "https://suthlam.github.io/"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=dYaQ1CUAAAAJ&view_op=list_works&sortby=pubdate"
   - label: GitHub
@@ -18,7 +18,7 @@ output:
  
 ## Bio
 
-Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, University of California San Diego (Advisor: Dr. Tarik Benmarhnia). She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conducted research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
+Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, University of California San Diego (Advisor: Dr. Tarik Benmarhnia). She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conduct research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
 
 
 ## Recent work
@@ -31,7 +31,7 @@ Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, 
 
 [Using parametric g-computation to estimate the effect of long-term exposure to air pollution on mortality risk](https://ehp.niehs.nih.gov/doi/10.1289/EHP11095), with Hong Chen, Aaron vanDonkelaar, Richard T.Burnett, Randall V.Martin, Li Chen, Michael Tjepkema, Megan Kirby-McGregor, Yi Li, Jay S.Kaufman, and TarikBenmarhnia, Environmental Health Perspectives.
 
-[Association between long-term exposure to ambient air pollution and COVID-19 severity](https://www.cmaj.ca/content/194/20/E693), with John Wang, Jeff Kwong, JinHee Kim, Aaron van Donkelaar, Randall V. Martin, Perry Hystad, Yushan Su, Eric Lavigne, Megan Kirby-McGregor, Jay S. Kaufman, Tarik Benmarhnia, and Hong Chen, CMAJ.
+[Long-term exposure to ambient air pollution and COVID-19 severity](https://www.cmaj.ca/content/194/20/E693), with John Wang, Jeff Kwong, JinHee Kim, Aaron van Donkelaar, Randall V. Martin, Perry Hystad, Yushan Su, Eric Lavigne, Megan Kirby-McGregor, Jay S. Kaufman, Tarik Benmarhnia, and Hong Chen, CMAJ.
 
 [Temporal variation in association between short-term exposure to fine particulate matter and hospitalisations](https://www.sciencedirect.com/science/article/pii/S2542519621001686?via%3Dihub), with Jason A. Warrington, Francesca Dominici, Roger D. Peng, Daniel C. Esty, Jennifer F. Bobb, and Michelle L. Bell, Lancet Planetary Health.
 
