@@ -18,7 +18,7 @@ output:
  
 ## Bio
 
-Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, University of California San Diego (Advisor: Dr. Tarik Benmarhnia). She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conduct research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
+Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, University of California San Diego (Advisor: Dr. Tarik Benmarhnia). She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conducts research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
 
 
 ## Recent work
