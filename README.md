@@ -1,1 +1,1 @@
- This repository contains the personal webpage of Chen Chen, which was made using the Solana template from R package [postcard](https://github.com/seankross/postcards?tab=readme-ov-file).
+ This repository contains the [personal webpage](https://suthlam.github.io/) of Chen Chen, which was made using the Solana template from R package [postcard](https://github.com/seankross/postcards?tab=readme-ov-file).
