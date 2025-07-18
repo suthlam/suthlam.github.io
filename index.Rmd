@@ -11,14 +11,14 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/chen-chen-4a24733a/"  
   - label: Email
-    url: "mailto:chc048@ucsd.edu"
+    url: "mailto:chen.chen@hci.utah.edu"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, University of California San Diego (Advisor: Dr. Tarik Benmarhnia). She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conducts research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
+Chen Chen is an Assistant Professor at the Department of Population Health Sciences and Huntsman Cancer Instittute at the University of Utah. She is an environmental health scientist, climate change epidemiologist, and data scientist by training and experience. She conducts research on the design and application of epidemiologic methods to understand how environmental exposures affect population health and equity, and to support evidence-based policy development, especially in the context of climate change. 
 
 
 ## Recent work
@@ -35,7 +35,9 @@ Chen Chen is a postdoctoral scholar at the Scripps Institution of Oceanography, 
 
 [Temporal variation in association between short-term exposure to fine particulate matter and hospitalisations](https://www.sciencedirect.com/science/article/pii/S2542519621001686?via%3Dihub), with Jason A. Warrington, Francesca Dominici, Roger D. Peng, Daniel C. Esty, Jennifer F. Bobb, and Michelle L. Bell, Lancet Planetary Health.
 
-## Education
+## Education and training
+
+**Postdoc in Environmental Epidemiology** | UCSD, San Diego (Advisor: Dr. Tarik Benmarhnia) | 2020 - 2025
 
 **Ph.D. in Environment** | Yale University, New Haven (Advisor: Dr. Michelle L. Bell) | 2015 - 2020
 
